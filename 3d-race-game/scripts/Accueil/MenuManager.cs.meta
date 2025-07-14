@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ccd8e175722bf684aab3d89be63793b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startScreen: {instanceID: 0}
+  - mainMenu: {instanceID: 0}
+  - startScreenMusic: {fileID: 8300000, guid: c4d8928c75c21af43998193f0f038429, type: 3}
+  - mainMenuMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
