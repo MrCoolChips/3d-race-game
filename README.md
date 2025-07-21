@@ -87,6 +87,5 @@ The goal was not to replicate these games but to adapt their best ideas into a p
 
 #Game
 
-Game windows link: https://drive.google.com/file/d/1WeQYU4s-jRc4bRV6XGOeRQN6vhEQ3MfN/view?usp=drive_link
 Gameplay video: https://youtu.be/qqutP-KUce4
 
